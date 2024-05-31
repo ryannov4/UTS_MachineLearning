@@ -1,0 +1,6 @@
+3. Jelaskan macam-macam taxonomi dalam pengerapan Machine Learning
+Jawab:
+Supervised Learning: Dalam taksonomi ini, model dilatih menggunakan data yang memiliki label atau target output yang diketahui. Tujuannya adalah agar model dapat mempelajari pola dan hubungan antara input dan output, sehingga dapat memprediksi output untuk data baru yang belum pernah dilihat sebelumnya. Contohnya klasifikasi (seperti pendeteksi spam email) dan regresi (seperti prediksi harga rumah).
+Unsupervised Learning: Dalam taksonomi ini, model dilatih menggunakan data yang tidak memiliki label atau target output. Tujuannya adalah agar model dapat menemukan pola atau struktur tersembunyi dalam data secara mandiri. Contohnya clustering (seperti pengelompokan pelanggan berdasarkan perilaku belanja) dan reduksi dimensi.
+Semi-Supervised Learning: Taksonomi ini merupakan kombinasi dari supervised learning dan unsupervised learning, di mana sebagian data dilabeli (memiliki target output) dan sebagian lainnya tidak dilabeli.
+Reinforcement Learning: Dalam taksonomi ini, model belajar melalui interaksi dengan lingkungan dan mendapatkan umpan balik berupa penghargaan atau hukuman. Tujuannya adalah agar model dapat mengambil tindakan yang memaksimalkan penghargaan kumulatif. Contohnya permainan cerdas dan robotika.
